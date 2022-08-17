@@ -7,15 +7,18 @@ This is a test of python file manager
 #### Category | Python script
 
 Sorts files by the extencion and put it in a category in the directory [Example: document]
+
 [CategoryPythonScript.py]
 
 #### A-Z | Python script
 
 Sorts files by the first letter of the and move them to a folder with their first letter in the directory [A-Z]
+
 [A-ZPythonFoldersScript.py]
 
 ####  RemoveEmptyFolders | Python script
 
 RemoveEmptyFolders in the directory
+
 [RemoveEmptyFolders.py]
 
